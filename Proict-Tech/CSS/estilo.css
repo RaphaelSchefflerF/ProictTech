@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: rgb(232, 10, 209);
+}
+h1{
+    color: rgb(17, 195, 226);
+}
+#h1-rosa{
+    color:pink
+}
+
+.h1-vermelho{
+    color:red
+}
+
+.cabecalho{
+    height: 80px;
+    background-color: blueviolet;
+}
+.rodape{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    position: fixed;
+
+    background-color: blueviolet;
+}
+
+.principal{
+
+    background-color: rgb(138, 43, 226);
+}
+.pagina{
+
+
+    
+}

@@ -1,0 +1,38 @@
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom:10;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+h1{
+    color:rgb(255, 255, 255)
+    
+}
+div{
+    background-color: rgba(175, 23, 170, 0.936);
+    
+}
+html{
+    background-color: rgb(106, 40, 150);
+}
+p{
+        color:rgb(255, 255, 255);
+}
+
+.list{
+    image-orientation: from-image;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    text-align: left;
+}
+
+
+.text{
+    text-align: center;
+    color: black;
+
+}
